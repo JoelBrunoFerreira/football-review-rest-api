@@ -6,9 +6,9 @@ A RESTful API built with Spring Boot for managing football players and their rev
 
 ## 🛠️ Technologies Used
 
-- **Java 17**
-- **Spring Boot 3**
-- **Spring Security 6** — JWT Authentication
+- **Java 25**
+- **Spring Boot 4**
+- **Spring Security 7** — JWT Authentication
 - **Spring Data JPA** — Database access
 - **PostgreSQL** — Relational database (running in Docker)
 - **Docker** — PostgreSQL container
